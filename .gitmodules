@@ -1,3 +1,6 @@
 [submodule "version-control/reflections/asteroids"]
 	path = version-control/reflections/asteroids
 	url = https://github.com/udacity/asteroids.git
+[submodule "version-control/asteroids"]
+	path = version-control/asteroids
+	url = https://github.com/udacity/asteroids.git
